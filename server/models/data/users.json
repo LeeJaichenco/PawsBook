@@ -1,0 +1,386 @@
+[
+  {
+    "userName": "galo11",
+    "ownerName": "gal",
+    "dogName": "tomi",
+    "email": "gal@gmail.com",
+    "password": "$2b$10$VzmGnbLlrUCpQld3sgut.usCIgnsRik67tf6kv2z8cOk4HhlO9HLq",
+    "id": "aca4262c-7960-49ed-90f6-d9d3e37e5a3e",
+    "activityHistory": [
+      {
+        "event": "created",
+        "timestamp": "2023-09-05T09:53:33.059Z"
+      }
+    ],
+    "following": [],
+    "followers": []
+  },
+  {
+    "userName": "neta98",
+    "ownerName": "neta",
+    "dogName": "milo",
+    "email": "neta@gmail.com",
+    "password": "$2b$10$DRADuFeHgaDwc7AFhV0ii.9EiuNOs7cWwCyjDJ3ehM84kkrBfjHJy",
+    "id": "0aba3e0c-3716-481a-a727-18b2db57fa81",
+    "activityHistory": [
+      {
+        "event": "created",
+        "timestamp": "2023-09-05T18:53:33.059Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-09T09:37:53.303Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-09T11:06:24.491Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-09T14:08:35.720Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-09T15:55:08.371Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-09T18:41:56.928Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T08:25:15.629Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:04:31.205Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:07:39.066Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:08:04.432Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:12:39.916Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:12:55.708Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:13:08.527Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:14:09.588Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:42:56.893Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:46:27.017Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:53:18.326Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T12:22:14.085Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T12:27:53.286Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T12:50:36.715Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T13:21:16.180Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T13:22:47.484Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T13:25:07.513Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T13:26:01.794Z"
+      }
+    ],
+    "following": [
+      "d8e31f8d-f247-493e-be0d-f41544938046"
+    ],
+    "followers": []
+  },
+  {
+    "userName": "Guy98",
+    "ownerName": "Guy",
+    "dogName": "Luna",
+    "email": "guy@gmail.com",
+    "password": "$2b$10$VWtPl9nAE4atLIKDfLA4a.hPcTIwJmbHzaR19m1H1rT841/umMXPy",
+    "id": "3771bab2-28f1-4fda-a762-b898d1d33292",
+    "activityHistory": [
+      {
+        "event": "created",
+        "timestamp": "2023-09-05T17:53:33.059Z"
+      }
+    ],
+    "following": [],
+    "followers": []
+  },
+  {
+    "userName": "Tomer10",
+    "ownerName": "Tomer",
+    "dogName": "Fredo",
+    "email": "tomer@gmail.com",
+    "password": "$2b$10$3O9eKkG1.Qq/h9e2sLxBPO84y7J6h2k0LeDng7ra0W5O2BFKh117q",
+    "id": "280265ff-c9d4-4fd1-a7a4-53dd11ab1ccc",
+    "activityHistory": [
+      {
+        "event": "created",
+        "timestamp": "2023-09-05T16:53:33.059Z"
+      }
+    ],
+    "following": [],
+    "followers": []
+  },
+  {
+    "userName": "TOMI",
+    "ownerName": "tom",
+    "dogName": "mooni",
+    "email": "tomi@gmail.com",
+    "password": "$2b$10$e24MILwbHXRClDAxrOrzwe75tFVLGK2CVddhflnRUWb.cy8U1WNXO",
+    "id": "fe158fe1-8299-448a-8eb3-1a994f7cd7db",
+    "activityHistory": [
+      {
+        "event": "created",
+        "timestamp": "2023-09-05T18:03:06.099Z"
+      }
+    ],
+    "following": [],
+    "followers": []
+  },
+  {
+    "userName": "Hagai92",
+    "ownerName": "Hagai",
+    "dogName": "Fredi",
+    "email": "hagai@gmail.com",
+    "password": "$2b$10$YdjwKwz4sQQ1GvIFD/TfU.JAMXcDYPKi26jUs0x878ld9I0GIAtAe",
+    "profileImagePath": "uploads\\1694099012995-fredi.jpg",
+    "id": "690b779b-57da-45f2-9128-78b16ec61f5f",
+    "activityHistory": [
+      {
+        "event": "Registered",
+        "timestamp": "2023-09-07T15:03:33.087Z"
+      }
+    ],
+    "following": [],
+    "followers": []
+  },
+  {
+    "userName": "Noa",
+    "ownerName": "noa",
+    "dogName": "noko",
+    "email": "noa@gmail.com",
+    "password": "$2b$10$9WyamiFPNmCZECGNDxVfw.jyEPKdGg9IXgxasZ/F9H7QJRbp6ZKYK",
+    "profileImagePath": "uploads\\1694099412735-Milo.jpg",
+    "id": "d8e31f8d-f247-493e-be0d-f41544938046",
+    "activityHistory": [
+      {
+        "event": "Registered",
+        "timestamp": "2023-09-07T15:10:12.867Z"
+      }
+    ],
+    "following": [],
+    "followers": [
+      "0aba3e0c-3716-481a-a727-18b2db57fa81"
+    ]
+  },
+  {
+    "userName": "Kimi",
+    "ownerName": "Kim",
+    "dogName": "Toy",
+    "email": "kim@gmail.com",
+    "password": "$2b$10$rXVav/bMQ.3hJFFdbcBukuRrtMTMaczFAeDRW4lEu5rruIe.x7Biy",
+    "profileImagePath": "uploads\\1694176361433-Toy.jpg",
+    "id": "485b5da0-b744-42a5-8927-d7c5db4242d5",
+    "activityHistory": [
+      {}
+    ],
+    "following": [],
+    "followers": []
+  },
+  {
+    "userName": "admin",
+    "ownerName": "admin",
+    "dogName": "admin's dog",
+    "email": "admin@gmail.com",
+    "password": "$2b$10$cflSrx/rd3tzEMBtBT1KX.P9xZnIDYkGZLmmT0HZ8UYCLBTPtZLe2",
+    "profileImagePath": "uploads\\1694179564548-admins dog.jpg",
+    "id": "63bdd953-7acf-4016-b3da-063644a33aab",
+    "following": [],
+    "followers": [],
+    "activityHistory": [
+      {
+        "type": "login",
+        "timestamp": "2023-09-09T09:27:17.976Z"
+      },
+      {
+        "type": "posted",
+        "timestamp": "2023-09-09T09:27:41.088Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-09T09:38:09.472Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-09T10:07:50.508Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-09T11:06:45.941Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-09T11:12:58.546Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-09T12:21:03.043Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-09T12:49:11.775Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T07:06:36.656Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T12:17:38.674Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T12:20:26.944Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T12:42:46.302Z"
+      }
+    ]
+  },
+  {
+    "userName": "Yaeli",
+    "ownerName": "Yael",
+    "dogName": "Alfredo",
+    "email": "yael12@gmail.com",
+    "password": "$2b$10$OV98SbQoXZV4yEKlkEjyG.kWVED/yVogciFm2hSkAvYotZVpEB3FO",
+    "profileImagePath": "uploads\\1694241405596-Alferdo.jpg",
+    "id": "b73fceb9-9a00-4ae3-a24c-36bb34921567",
+    "following": [],
+    "followers": [],
+    "activityHistory": [
+      {
+        "type": "posted",
+        "timestamp": "2023-09-09T06:38:06.018Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-09T12:48:31.108Z"
+      }
+    ]
+  },
+  {
+    "userName": "Hadas_sp",
+    "ownerName": "Hadas",
+    "dogName": "rojer",
+    "email": "hadas@gmail.com",
+    "password": "$2b$10$TmYEHgXtfogpvxkUhQ/FougHIv9tXjHKPxzfeB16m26vzMSjFSUYq",
+    "profileImagePath": "uploads\\1694327777544-hadasDog.jpg",
+    "id": "c63c21f6-9fda-44d6-a570-62a0ff3ae9ee",
+    "following": [],
+    "followers": [],
+    "activityHistory": [
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T06:36:30.052Z"
+      }
+    ]
+  },
+  {
+    "userName": "test1",
+    "ownerName": "test1",
+    "dogName": "test",
+    "email": "test1@gmail.com",
+    "password": "$2b$10$nOun1fnXW38ku5UgbvThu.gFZcCis9Flkt6Yj6D6Bs/M8eSVVYjHW",
+    "profileImagePath": "uploads\\1694344624718-Alferdo.jpg",
+    "id": "bda93251-5303-44df-b6b2-a2ce537c4747",
+    "following": [],
+    "followers": [],
+    "activityHistory": [
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:18:27.589Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:20:19.457Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:20:36.553Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:29:27.762Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:30:23.533Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:37:51.049Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:39:01.368Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T11:53:51.986Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T12:00:50.515Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T12:03:01.789Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T12:09:14.817Z"
+      },
+      {
+        "type": "login",
+        "timestamp": "2023-09-10T12:09:38.161Z"
+      }
+    ]
+  }
+]
